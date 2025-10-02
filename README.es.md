@@ -1,6 +1,6 @@
 # Recursos de Aprendizaje sobre Git & GitHub
 
-Este repositorio reúne tutoriales, vídeos y ejemplos para aprender **Git** y **GitHub**, 
+Este repositorio reúne **tutoriales en formato vídeo** para aprender **Git** y **GitHub**, 
 desde conceptos básicos hasta flujos de trabajo más avanzados.
 
 > 🇬🇧 [Read in English](./README.md)
