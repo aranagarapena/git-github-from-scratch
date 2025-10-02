@@ -9,24 +9,26 @@ from basic concepts to advanced workflows.
 
 ## 📚 Index
 
+## 📚 Index
+
 ### 🔹 Git & GitHub
 
-1. Theoretical intuition of Git and GitHub
-2. Install Git and create your first local repository
-3. Create a remote repository and connect it
+1. [Theoretical intuition of Git and GitHub](#1-theoretical-intuition-of-git-and-github)  
+2. [Install Git and create your first local repository](#2-install-git-and-create-your-first-local-repository)  
+3. [Create a remote repository and connect it](#3-create-a-remote-repository-and-connect-it)  
 
 ### 🔹 GitHub Pages
 
-4. Deploying with GitHub Pages (simple)
-5. Deploying with GitHub Pages (advanced) 
+4. [Deploying with GitHub Pages (simple)](#4-deploying-with-github-pages-simple)  
+5. [Deploying with GitHub Pages (advanced)](#5-deploying-with-github-pages-advanced)  
 
 ### 🔹 GitHub Classroom
 
-6. GitHub Classroom workflow for assignments
+6. [GitHub Classroom workflow for assignments](#6-github-classroom-workflow-for-assignments)
 
 ---
 
-## Git & GitHub
+## 🔹 Git & GitHub
 
 1. **Theoretical intuition of Git and GitHub**
    
@@ -56,7 +58,7 @@ from basic concepts to advanced workflows.
 
 ---
 
-## GitHub Pages
+## 🔹 GitHub Pages
 
 4. **Deploying with GitHub Pages (simple)**
    
@@ -78,7 +80,7 @@ from basic concepts to advanced workflows.
 
 ---
 
-## GitHub Classroom
+## 🔹 GitHub Classroom
 
 6. **GitHub Classroom workflow for assignments**
    - Introduction to GitHub Classroom and the workflow for assignments.  
