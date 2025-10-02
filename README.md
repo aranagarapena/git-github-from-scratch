@@ -1,6 +1,6 @@
 # Git & GitHub Learning Resources
 
-This repository gathers **tutorials in video format **to learn **Git** and **GitHub**, 
+This repository gathers **tutorials in video format** to learn **Git** and **GitHub**, 
 from basic concepts to advanced workflows.
 
 > 🇪🇸 [Leer en Español](./README.es.md)
